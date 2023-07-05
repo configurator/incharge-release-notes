@@ -1,0 +1,7 @@
+html {
+    direction: rtl;
+}
+
+h1:first-child {
+    text-align: center;
+}
