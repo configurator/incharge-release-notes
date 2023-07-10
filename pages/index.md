@@ -5,13 +5,13 @@
 המסמך מדבר על כל הסוגים השונים של אינצ'ארג', ולא מפריד בין מצבי העבודה השונים
 # v2.0.21 - 10/7/2023
 
-Console: shut down screen graphics
-Console: shut down machine, turn on machine
-Add payment types screen: "how do you want to pay?" 
-Add creditTerminalNo to CreateInvoice 
-Seller selection: only show sellers in current shift
-Print in receipt: how many points the user accumulated
-Disable history (on swipe)
+* Console: shut down screen graphics
+* Console: shut down machine, turn on machine
+* Add payment types screen: "how do you want to pay?" 
+* Add creditTerminalNo to CreateInvoice 
+* Seller selection: only show sellers in current shift
+* Print in receipt: how many points the user accumulated
+* Disable history (on swipe)
 
 # v2.0 - 4/7/2023
 
