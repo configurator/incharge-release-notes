@@ -5,7 +5,9 @@
 המסמך מדבר על כל הסוגים השונים של אינצ'ארג', ולא מפריד בין מצבי העבודה השונים
 
 # v4 - 25/07/2024
+
 Current production version (as of this update): v4.1.141
+
 Current testing version (as of this update): v4.1.143
 גרסה זו היא גרסה ראשית.
 
