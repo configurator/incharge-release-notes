@@ -9,6 +9,7 @@
 Current production version (as of this update): v4.1.141
 
 Current testing version (as of this update): v4.1.143
+
 גרסה זו היא גרסה ראשית.
 
 השינויים המרכזיים בגרסה כוללים:
